@@ -1,0 +1,28 @@
+{
+  "name": "sheetsTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "lint": "standard --fix *.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maddy-at-leisure/auto-export-tracking-impressions/sheetsTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maddy-at-leisure/auto-export-tracking-impressions/sheetsTest/issues"
+  },
+  "homepage": "https://github.com/maddy-at-leisure/auto-export-tracking-impressions/blob/main/README.md",
+  "dependencies": {},
+  "devDependencies": {
+    "@everymundo/simple-logr": "^2.2.4",
+    "googleapis": "^39.2.0",
+    "pg": "^8.0.2",
+    "serverless-aws-alias": "^1.8.0",
+    "standard": "^14.3.3"
+  }
+}
